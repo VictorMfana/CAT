@@ -1,7 +1,7 @@
 # CAT 
 ## SHAPE AND COLOUR MATCHING GAME
 
-This is a simple 2D game implemented in Python with PyWebGL, where the player matches shapes with their corresponding colors. The game leverages the capabilities of PyWebGL to provide an interactive and visually appealing experience.
+This is a simple 2D game implemented in Python with WebGL, where the player matches shapes with their corresponding colors. The game leverages the capabilities of WebGL to provide an interactive and visually appealing experience.
 
 ## Prerequisites:
 
