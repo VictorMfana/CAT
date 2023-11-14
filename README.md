@@ -11,7 +11,7 @@ pip install PyOpenGL PyOpenGL-accelerate
 ~~~
 ## Getting Started
 To run the game locally, follow these steps:
-1. Clone the repoaitory
+1. Clone the repository
 ~~~
 git clone https://github.com/your-username/shape-color-matching-game.git
 cd shape-color-matching-game
