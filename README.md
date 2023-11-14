@@ -1,7 +1,7 @@
-# CAT 
-## SHAPE AND COLOUR MATCHING GAME
+# Mix and Match
+## Shape and Coulour Matching Game
 
-This is a simple 2D game implemented in Python with WebGL, where the player matches shapes with their corresponding colors. The game leverages the capabilities of WebGL to provide an interactive and visually appealing experience.
+This is a simple 2D game implemented in Python with WebGL, where the player matches shapes with their corresponding colors. The game leverages the capabilities of WebGL and Arcade to provide an interactive and visually appealing experience.
 
 ## Prerequisites:
 
@@ -41,12 +41,6 @@ Match the selected shape with its corresponding color.
 Successful matches may trigger animations or visual feedback.
 
 Enjoy the challenge of matching shapes and colors within a set time or attempt to achieve a high score.
-## Technologies Used
-Python
-
-WebGL
-
-Arcade
 
 ## Features
 Visually engaging 2D graphics using PyWebGL.
