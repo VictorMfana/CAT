@@ -1,7 +1,7 @@
-# Mix and Match
-## Shape and Coulour Matching Game
+# Shape Escape
+## Shape Evading Game 
 
-This is a simple 2D game implemented in Python with WebGL, where the player matches shapes with their corresponding colors. The game leverages the capabilities of WebGL and Arcade to provide an interactive and visually appealing experience.
+This is a simple 3D game implemented in Python with WebGL, where the player evades the matching shapes. The game leverages the capabilities of WebGL and three.js to provide an interactive and visually appealing experience.
 
 ## Prerequisites:
 
@@ -34,19 +34,17 @@ python main.py
 ~~~
 
 ## How to Play
-Click or tap on a shape to select it.
+Use the key 'a' to move left 'd' to move right 's' to move backwards 'w' to move foward and the space bar to jump
 
-Match the selected shape with its corresponding color.
+Try avoid the shapes as much as possible to play longer
 
-Successful matches may trigger animations or visual feedback.
-
-Enjoy the challenge of matching shapes and colors within a set time or attempt to achieve a high score.
+Enjoy the challenge.
 
 ## Features
-Visually engaging 2D graphics using PyWebGL.
+Visually engaging 3D graphics using PyWebGL.
 
 Interactive gameplay with user input handling.
 
-Simple shape and color matching mechanics.
+Simple shape evading mechanics.
 
 Potential for expansions such as scoring, time constraints, or additional levels.
