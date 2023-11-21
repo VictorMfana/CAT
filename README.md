@@ -5,33 +5,20 @@ This is a simple 3D game implemented in Python with WebGL, where the player evad
 
 ## Prerequisites:
 
-Make sure you have Python and a virtual environment set up on your machine. Additionally, install the required Python packages:
+Make sure you have Python,node.js and a virtual environment set up on your machine.
 ~~~
-pip install PyOpenGL PyOpenGL-accelerate
+
 ~~~
 ## Getting Started
 To run the game locally, follow these steps:
 1. Clone the repository
 ~~~
-git clone https://github.com/your-username/shape-color-matching-game.git
-cd shape-color-matching-game
+git clone https://github.com/your-username/shape-evading-game.git
+cd shape-evading-game
 ~~~
-2. Activate Virtual Environment
+2.Click on index.html and it will open in the browser
 ~~~
-# On Windows
-.\venv\Scripts\activate
 
-# On macOS/Linux
-source venv/bin/activate
-~~~
-3. Install python dependencies
-~~~
-pip install -r requirements.txt
-~~~
-5. Run the game
-~~~
-python main.py
-~~~
 
 ## How to Play
 Use the key 'a' to move left 'd' to move right 's' to move backwards 'w' to move foward and the space bar to jump
@@ -41,7 +28,7 @@ Try avoid the shapes as much as possible to play longer
 Enjoy the challenge.
 
 ## Features
-Visually engaging 3D graphics using PyWebGL.
+Visually engaging 3D graphics using Three.js.
 
 Interactive gameplay with user input handling.
 
