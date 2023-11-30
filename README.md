@@ -1,7 +1,7 @@
 # Shape Escape
 ## Shape Evading Game 
 
-This is a simple 3D game implemented in Python with WebGL, where the player evades the matching shapes. The game leverages the capabilities of WebGL and three.js to provide an interactive and visually appealing experience.
+This is a simple 3D game implemented in Three.js with WebGL, where the player evades the matching shapes. The game leverages the capabilities of WebGL and three.js to provide an interactive and visually appealing experience.
 
 ## Prerequisites:
 
